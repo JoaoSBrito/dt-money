@@ -8,7 +8,6 @@
       "price": 14000,
       "createdAt": "2022-11-15T13:48:11.415Z"
     },
-
     {
       "id": 2,
       "description": "Hamburguer",
@@ -16,14 +15,6 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2022-11-15T13:30:11.415Z"
-    },
-    {
-      "id": 3,
-      "description": "Ignite",
-      "type": "outcome",
-      "category": "Curso",
-      "price": 1980,
-      "createdAt": "2022-12-15T13:30:11.415Z"
     }
   ]
 }
